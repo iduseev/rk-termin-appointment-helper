@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+coverage==7.4.1
+idna==3.6
+iniconfig==2.0.0
+packaging==23.2
+pluggy==1.4.0
+pyTelegramBotAPI==4.15.3
+pytest==8.0.0
+pytest-cov==4.1.0
+requests==2.31.0
+soupsieve==2.5
+TwoCaptcha==0.0.1
+urllib3==2.1.0
